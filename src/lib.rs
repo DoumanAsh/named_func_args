@@ -10,7 +10,7 @@
 //!
 //!## Why?
 //!
-//!Just because language lacks basic UX feature, doesn't mean we should have it.
+//!Just because language lacks basic UX feature, doesn't mean we shouldn't have it.
 //!
 //!Even if you have tool X to substitute lack of this feature, it doesn't mean language has to suck.
 //!
