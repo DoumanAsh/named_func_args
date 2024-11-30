@@ -1,6 +1,6 @@
 # named_func_args
 
-![Rust](https://github.com/DoumanAsh/named_func_args/workflows/Rust/badge.svg?branch=master)
+[![Rust](https://github.com/DoumanAsh/named_func_args/actions/workflows/rust.yml/badge.svg)](https://github.com/DoumanAsh/named_func_args/actions/workflows/rust.yml)
 [![Crates.io](https://img.shields.io/crates/v/named_func_args.svg)](https://crates.io/crates/named_func_args)
 [![Documentation](https://docs.rs/named_func_args/badge.svg)](https://docs.rs/crate/named_func_args/)
 
